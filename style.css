@@ -86,7 +86,6 @@ header nav .home-color {
 #thehome .imgbox {
   width: 520px;
 }
-
 #works h1 {
   font-weight: 700;
   font-size: 60px;
@@ -138,32 +137,38 @@ header nav .home-color {
 #browse .row .one {
   background-color: white;
   border-radius: 10px;
-  padding-bottom: 15px;
+  position: relative;
+  bottom: 8px;
 }
 #browse .row .two {
   background-color: white;
   border-radius: 10px;
-  max-resolution: 30px;
+  position: relative;
+  bottom: 8px;
 }
 #browse .row .three {
   background-color: white;
   border-radius: 10px;
-  padding-bottom: 50px;
+  position: relative;
+  top: 15px;
 }
 #browse .row .four {
   background-color: white;
   border-radius: 10px;
-  padding-top: 20px;
+  position: relative;
+  top: 15px;
 }
 #browse .row .five {
   background-color: white;
   border-radius: 10px;
-  padding-bottom: 15px;
+  position: relative;
+  top: 35px;
 }
 #browse .row .six {
   background-color: white;
   border-radius: 10px;
-  padding-bottom: 15px;
+  position: relative;
+  top: 35px;
 }
 #browse .textbox {
   width: 500px;
